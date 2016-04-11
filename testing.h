@@ -1,3 +1,6 @@
+#pragma once
+#include <stdio.h>
+
 typedef struct {
     char *text;
     int result;

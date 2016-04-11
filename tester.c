@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "testing.h"
 
 test some_test() {

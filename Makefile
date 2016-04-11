@@ -1,6 +1,5 @@
-.PHONY: clean
-
 all: tester
 
+.PHONY: clean
 clean:
 	-$(RM) tester
