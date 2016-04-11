@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include "testing.h"
 
-BEGIN_TESTS
-
 test some_test() {
     DEF_TEST("We did it, America!");
 
