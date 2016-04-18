@@ -11,6 +11,7 @@ test some_test() {
 test whatever() {
     DEF_TEST("This test should fail.");
 
+    DO_TEST(1, "something that succeeded");
     DO_TEST(0, "something that resulted in failure");
 
     END_TEST;
